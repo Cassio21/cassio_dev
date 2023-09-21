@@ -1,0 +1,14 @@
+* {
+  font-family: "Bungee Hairline", cursive;
+  font-family: "Comfortaa", cursive;
+  /* font-family: "Sedgwick Ave", cursive; */
+  /* font-family: "Bungee Hairline", cursive; */
+  padding: 0;
+  margin: 0;
+  background-color: #15465b;
+  color: #fff;
+}
+
+body {
+  min-height: 100vh;
+}
