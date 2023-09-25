@@ -6,7 +6,7 @@ import { useState } from "react";
 //**Estaticos */
 import "./NavBar.css";
 // import Pic from "../assets/Pic.jpeg";
-import logo from "../Cassio_dev/logo.png";
+import logo from "../Cassio_dev/Logotipo Desenvolvedor Web.png";
 
 const NavBar = () => {
   const [menuAberto, setMenuAberto] = useState(false);
